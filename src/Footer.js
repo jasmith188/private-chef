@@ -30,7 +30,7 @@ export const Footer = () => {
             </li>
             <li>
               <a href="#" class="hover:underline">
-                Contact
+                Contact Me
               </a>
             </li>
           </ul>
